@@ -1,0 +1,313 @@
+
+body{
+  margin: 0px;
+
+}
+.top{
+  background-image: url(images/Space-1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+ height: 109vh;
+  margin-bottom: -2%;
+  padding-right: 5%;
+  padding-left: 1%;
+} 
+
+.logo{
+  height: 80px;
+  width: auto;
+  float: left;
+  margin-top: 10px;
+}
+.logo2{
+  height: 80px;
+  width: auto;
+  float: left;
+  margin-top: 10px;
+ 
+}
+#logo3{
+  -webkit-animation: action 1s infinite  alternate;
+      animation: action 1s infinite  alternate;
+}
+@-webkit-keyframes action {
+      0% { transform: translateY(0); }
+      100% { transform: translateY(-10px); }
+  }
+  @keyframes action {
+      0% { transform: translateY(0); }
+      100% { transform: translateY(-10px); }
+  }
+.main-nav{
+  float: right;
+  margin-top: 17px;
+}
+.main-nav li{
+  display: inline-block;
+  list-style: none;
+  margin-left: 40px;
+  font-size: 18px;
+  text-decoration: none;
+  font-family: Poppins, sans-serif;
+  font-weight: bold;
+  color: #FF9100;
+}
+.main-nav li a{
+  display: inline-block;
+  list-style: none;
+  margin-left: 30px;
+  margin-right: 5px;
+  font-size: 90%;
+  text-decoration: none;
+  font-family: Poppins, sans-serif;
+  color: #FF9100;
+  font-weight: 100px;
+}
+.main-nav li a:active{
+  display: inline-block;
+  list-style: none;
+  text-decoration: none;
+  font-family: Poppins, sans-serif;
+  color: white;
+  border-bottom: 2px solid white;
+}
+.main-nav li a:hover{
+  display: inline-block;
+  list-style: none;
+  text-decoration: none;
+  font-family: Poppins, sans-serif;
+  color: white;
+  border-bottom: 2px solid white;
+}
+
+.main-content-header{
+  width: 1180px;
+  position: absolute;
+  top: 40%;
+  left:50%;
+  transform: translate(-50%, -20%);
+}
+h1{
+  
+  font-size: 240%;
+  margin-bottom: 10px;
+}
+section{
+  height: 500px;   
+  padding-bottom: 130px;
+}
+.work{
+ background-color: black;
+ height: 100vh;
+ margin-bottom: -2%;
+}
+.width{
+  width: 26%;
+  float: left;
+  padding-top: 9%;
+  padding-left: 6%;
+ 
+}
+.work img{
+  width: 90%;
+  border-radius: 5px;
+  box-shadow: 5px 10px 5px #FF9100;
+}
+
+.ct{
+  background-color: #FF9100 ;
+  height: 150vh;
+  margin-bottom: -2%;
+ }
+
+ .ct img{
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 5px 10px 5px black;
+}
+
+
+.wd{
+  background-color: black ;
+  height: 70vh;
+ }
+
+ .wd .width{
+  width: 40%;
+  float: left;
+  padding-top: 6%;
+  padding-left: 6%;
+ }
+
+ .wd img{
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 5px 10px 5px #FF9100;
+}
+
+
+.wd1{
+  background-color: white ;
+  height: 60vh;
+ }
+
+ .wd1 .width{
+  width: 40%;
+  float: left;
+  padding-top: 6%;
+  padding-left: 6%;
+ }
+
+ .wd1 img{
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 5px 10px 5px black;
+}
+
+
+.wd2{
+  background-color: black ;
+  height: 84vh;
+ }
+
+ .wd2 .width{
+  width: 40%;
+  float: left;
+  padding-top: 6%;
+  padding-left: 6%;
+ }
+
+ .wd2 img{
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 5px 10px 5px #FF9100;
+}
+
+
+
+.wd3{
+  background-color: white ;
+  height: 80vh;
+ }
+
+ .wd3 .width{
+  width: 40%;
+  float: left;
+  padding-top: 6%;
+  padding-left: 6%;
+ }
+
+ .wd3 img{
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 5px 10px 5px black;
+}
+
+
+
+.wd4{
+  background-color: black ;
+  height: 60vh;
+ }
+
+ .wd4 .width{
+  width: 40%;
+  float: left;
+  padding-top: 6%;
+  padding-left: 6%;
+ }
+
+ .wd4 img{
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 5px 10px 5px #FF9100;
+}
+
+
+.wd5{
+  background-color: black ;
+  height: 100vh;
+ }
+
+ .wd5 .width{
+  width: 40%;
+  float: left;
+  padding-top: 6%;
+  padding-left: 6%;
+ }
+
+ .wd5 img{
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 5px 10px 5px #FF9100;
+}
+
+
+.wd6{
+  background-color: white ;
+  height: 86vh;
+ }
+
+ .wd6 .width{
+  width: 40%;
+  float: left;
+  padding-top: 6%;
+  padding-left: 6%;
+ }
+
+ .wd6 img{
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 5px 10px 5px black;
+}
+
+
+.bg{
+  background-color: black ;
+  height: 99vh;
+  margin-bottom: -2%;
+ }
+
+ .bg .width{
+  width: 41%;
+  float: left;
+  padding-top: 6%;
+  padding-left: 6%;
+ }
+
+ .bg img{
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 5px 10px 5px  #FF9100;
+}
+
+
+.cu{
+  background-color: black ;
+  height: 110vh;
+  margin-bottom: -4%;
+ }
+
+ .cu .width{
+  width: 41%;
+  float: left;
+  padding-top: 6%;
+  padding-left: 9%;
+ }
+
+ .cu img{
+  width: 60%;
+  border-radius: 5px;
+
+}
+ .cu .width1{
+  width: 20%;
+  float: left;
+  padding-left: 3%;
+ }
+
+
+
+/* developed by MD NAYEEM HOSSAIN*/
+/* media queriw and responsive*/
+
