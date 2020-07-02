@@ -115,7 +115,7 @@ section{
 }
 
 .ct{
-  background-color: black ;
+  background-color:  #FF9100;
   height: 150vh;
   margin-bottom: -2%;
  }
@@ -124,7 +124,7 @@ section{
 
   width: 100%;
   border-radius: 5px;
-  box-shadow: 5px 10px 5px blue;
+  box-shadow: 5px 10px 5px black;
 }
 
 
