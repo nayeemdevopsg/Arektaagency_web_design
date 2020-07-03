@@ -405,15 +405,16 @@ display: fixed;
   }
   .main-content-header{
    
+   padding-top: 40%; 
    width: 100%;
-   padding-left: 28%;
+   padding-left: 18%;
   }
   .logo{
     height: 100px;
     width: auto;
     float: center;
     margin-top: 10px;
-    margin-left: 50%;
+    margin-left: 9%;
   }
   .main-nav li{
     display: block;
