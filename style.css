@@ -313,3 +313,123 @@ section{
 /* developed by MD NAYEEM HOSSAIN*/
 /* media queriw and responsive*/
 
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+ 
+  .work .ct .wd .wd1 .wd2 .wd3 .wd4 .wd5 .wd6 .cu .width{
+   float: left;
+   width: 100%;
+   margin-left: 9%;
+   margin-bottom: -2%;
+
+  }
+  .ct{
+    margin-top: -8%;
+    padding-left: 6%;
+    height: 500px;
+  }
+.wd{
+  margin-top: -8%;
+  padding-left: 6%;
+    height: 500px;
+    font-size: 20px;
+}
+.wd p{
+font-size: 1px;
+display: fixed;
+}
+.wd1{
+  padding-left: 6%;
+    height: 500px;
+}
+.wd2{
+  padding-left: 6%;
+    height: 500px;
+}
+.wd3{
+  padding-left: 6%;
+    height: 500px;
+}
+.wd4{
+  padding-left: 6%;
+    height: 500px;
+}
+.wd5{
+  padding-left: 6%;
+    height: 500px;
+}
+.wd6{
+  padding-left: 6%;
+    height: 500px;
+}
+.bg{
+  padding-left: 6%;
+    height: 500px;
+}
+
+
+  .width img{
+    width: 100%;
+    float: center;
+ 
+   }
+  .cu {
+    height: 440px;
+    padding-right: 22%;
+    margin-bottom: -4%;
+    width:100%;
+  }
+  .work{
+    margin-top: -8%;
+    padding-left: 6%;
+    height: 500px;
+  }
+  .wd6{
+
+
+  padding-left: 7%;
+  width:100%;
+  }
+  .wd5{
+    padding-left: 1%;
+    width: 105%;
+    font-size: 13px;
+    display: flexbox;
+  }
+  footer p{
+    width: 100%;
+  }
+  body{
+   
+   width: 100%;
+  }
+  .main-content-header{
+   
+   width: 100%;
+   padding-left: 28%;
+  }
+  .logo{
+    height: 100px;
+    width: auto;
+    float: center;
+    margin-top: 10px;
+    margin-left: 50%;
+  }
+  .main-nav li{
+    display: block;
+    list-style: none;
+    margin-left: 40px;
+    font-size: 18px;
+    text-decoration: none;
+    font-family: Poppins, sans-serif;
+    font-weight: bold;
+    color: #FF9100;
+    
+  }
+  .top{
+     height: 800px;
+  }
+  .fl{
+    padding-left: 100%;
+  }
+}
